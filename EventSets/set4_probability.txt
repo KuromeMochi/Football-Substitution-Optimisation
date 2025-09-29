@@ -1,0 +1,23 @@
+events = [
+    MatchEvent("foul", 4, 15, "B"),
+    MatchEvent("yellow card", 4, 15, "B"),
+    MatchEvent("foul", 13, 28, "A"),
+    MatchEvent("foul", 3, 35, "B"),
+    MatchEvent("yellow card", 3, 35, "B"),
+
+    MatchEvent("red card", 6, 43, "A"),
+    MatchEvent("red card", 2, 51, "A"),
+
+    MatchEvent("injury", 18, 48, "B"),
+
+    MatchEvent("shot", 10, 12, "A"),
+    MatchEvent("shot", 20, 27, "B"),
+    MatchEvent("shot", 17, 59, "B"),
+    MatchEvent("shot", 14, 81, "B"),
+
+    MatchEvent("pass", 6, 8, "A"),
+    MatchEvent("pass", 8, 14, "A"),
+    MatchEvent("pass", 19, 31, "B"),
+    MatchEvent("pass", 7, 46, "A"),
+    MatchEvent("pass", 16, 65, "B")
+]
