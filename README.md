@@ -9,3 +9,5 @@ Simply install all the dependencies required for this program to run.
 
 Then run CreateMatchProb.py for the probabilistic goal system and createMatch.py for the predetermined goal system.
 Events are manually stored and added into the program.
+
+Will add to this README later.
